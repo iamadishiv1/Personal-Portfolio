@@ -17,8 +17,8 @@ const projects = [
         description:
             "About This portfolio website is built using Tailwind CSS for sleek and responsive design, combined with Framer Motion for smooth animations and modern UI transitions.",
         techStack: ["React", "TailwindCSS", "Framer Motion", "Vite"],
-        link: "https://codeshivam.vercel.app/",
-        github: 'https://github.com/shivamEr/codeshivam_portfolio',
+        link: "https://iamadishiv1.github.io/Personal-Portfolio/",
+        github: 'https://github.com/iamadishiv1/Personal-Portfolio',
         image: portfolio,
     },
     {
