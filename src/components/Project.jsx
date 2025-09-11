@@ -8,8 +8,8 @@ const projects = [
         description:
             "A full-stack web application that allows users to create and join public or private real-time meetings with messaging, video chat, screen sharing, and file sharing.",
         techStack: ["ReactJS", "MongoDB", "WebSocket", "WebRTC", "Tailwind CSS"],
-        link: "https://bharatmeet-zeta.vercel.app/",
-        github: 'https://github.com/shivamEr/BharatMeet',
+        link: "https://github.com/iamadishiv1/BharatMeet",
+        github: 'https://github.com/iamadishiv1/BharatMeet',
         image: bharatmeet,
     },
     {
@@ -22,21 +22,21 @@ const projects = [
         image: portfolio,
     },
     {
-        title: "iNotebook",
+        title: "Language Learning Platform",
         description:
-            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea accusantium impedit facere. Sequi, deserunt recusandae.",
-        techStack: ["React", "Node.js", "MongoDB", "ShadCn UI"],
-        link: "https://nike-topaz-delta.vercel.app/",
-        github: 'https://github.com/shivamEr/iNotebook',
+            "An online language learning platform is needed that offers courses, exercises, and quizzes to help users learn new languages. The system should support tracking progress and provide feedback on performance.",
+        techStack: ["HTML", "Python", "Django", "SQLite"],
+        link: "https://github.com/iamadishiv1/Language_Learning_Platform",
+        github: 'https://github.com/iamadishiv1/Language_Learning_Platform',
         image: portfolio,
     },
     {
         title: "NewsAlexa",
         description:
-            "NewsAlexa is a React-based news app that provides the latest news across various categories like technology, sports, business, and entertainment. With real-time updates and a user-friendly interface, NewsAlexa helps users stay informed on current events.",
-        techStack: ["React.js", "REST API", "BootStrap"],
-        link: "https://clothify-two.vercel.app/",
-        github: 'https://github.com/shivamEr/NewsAlexa',
+            "Self-contained document scanning and matching system with a built-in credit system. Each user has a daily limit of 20 free scans, and additional scans require requesting more credits.",
+        techStack: ["HTML", "CSS", "JavaScript", "NodeJS", "SQLite"],
+        link: "https://github.com/iamadishiv1/CreditBasedDocScanner",
+        github: 'https://github.com/iamadishiv1/CreditBasedDocScanner',
         image: portfolio,
     },
     {
@@ -44,8 +44,8 @@ const projects = [
         description:
             "TextUtils is a handy text tool offering case conversion, copy, clear, and extra space removal, along with word and character counts and reading time estimates.",
         techStack: ["React.js", "Text Manipulation"],
-        link: "https://shivamer.github.io/TextUtils/",
-        github: 'https://github.com/shivamEr/TextUtils',
+        link: "https://github.com/iamadishiv1/TextUtils",
+        github: 'https://github.com/iamadishiv1/TextUtils',
         image: portfolio,
     },
 ];
